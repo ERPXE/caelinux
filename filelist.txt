@@ -1,0 +1,6 @@
+.:
+caelinux.menu
+caelinux.png
+filelist.txt
+initrd.gz
+vmlinuz
